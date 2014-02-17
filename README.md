@@ -1,6 +1,6 @@
 # Simple Java JNI Examples
 
-Documentation around JNI is hard to find, and once found takes a lot of head banging to get a simple jni code to run.
+Example code around JNI is hard to find, and once found takes a lot of head banging to get a simple jni code to run.
 Hopefully this will help those trying to get a start with jni coding. Will be adding more examples as I dig deeper.
 
 ## Installation and Run
